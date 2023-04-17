@@ -1,4 +1,4 @@
-A simple web applicaiton I made to get comfortable with Django and Python      
+A simple web application I made to get comfortable with Django and Python      
    
 Endpoints:   
 members/hello/   
